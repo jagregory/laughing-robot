@@ -1,2 +1,23 @@
+/*
+  I am your stylesheet.
+
+  You can change the appearance of your pages if you
+  include a tag linking them to this file.
+
+  <link href="/app.css" />
+
+  Then in here you can write
+
+  tag-name {
+    background: red;
+  }
+
+  e.g.
+
+  h1 {
+    color: blue;
+  }
+*/
+
 body {
 }
