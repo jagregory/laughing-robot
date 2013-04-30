@@ -1,6 +1,8 @@
 require 'sinatra'
 require 'json'
 
+disable :protection
+
 get '/' do
   send_file './public/index.html'
 end
